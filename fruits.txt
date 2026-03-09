@@ -1,5 +1,5 @@
 apples
-bonanas
+bananas
 giraffes
 oranges
 grapes
