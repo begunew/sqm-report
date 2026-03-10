@@ -1,7 +1,6 @@
 apples
-bonanas
+bananas
 giraffes
 oranges
 grapes
 watermel0ns
-bananas
