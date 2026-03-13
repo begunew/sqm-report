@@ -1,6 +1,6 @@
 apples
 bananas
-giraffes
+pears
 oranges
 grapes
 watermelons
